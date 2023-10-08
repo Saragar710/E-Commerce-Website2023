@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/Saragar710/E-Commerce-Website2023/issues"
   },
-  "homepage": "https://github.com/Saragar710/E-Commerce-Website2023#readme"
+  "homepage": "https://github.com/Saragar710/E-Commerce-Website2023#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mysql2": "^3.6.1",
+    "sequelize": "^6.33.0"
+  }
 }
