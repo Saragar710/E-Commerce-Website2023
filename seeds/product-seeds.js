@@ -14,13 +14,13 @@ const productData = [
     category_id: 2,
   },
   {
-    product_name: 'Cross-body Bage',
+    product_name: 'Cross-body Bag',
     price: 17.99,
     stock: 75,
     category_id: 3,
   },
   {
-    product_name: 'Neff Hoodie',
+    product_name: 'Hoodie',
     price: 75.00,
     stock: 12,
     category_id: 4,
