@@ -1,0 +1,23 @@
+{
+  "name": "e-commerce-website2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saragar710/E-Commerce-Website2023.git"
+  },
+  "keywords": [
+    "seeds",
+    "express"
+  ],
+  "author": "Sara Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saragar710/E-Commerce-Website2023/issues"
+  },
+  "homepage": "https://github.com/Saragar710/E-Commerce-Website2023#readme"
+}
