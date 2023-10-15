@@ -14,7 +14,7 @@ const categoryData = [
     category_name: 'Hoodies',
   },
   {
-    category_name: 'Sneakers',
+    category_name: 'Shoes',
   },
 ];
 

@@ -26,7 +26,7 @@ const productData = [
     category_id: 4,
   },
   {
-    product_name: 'White Air Force Ones',
+    product_name: 'High Top Shoes',
     price: 325.00,
     stock: 5,
     category_id: 5,
