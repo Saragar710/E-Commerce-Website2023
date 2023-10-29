@@ -8,9 +8,9 @@ The app has all the dependencies needed. Simply run npm start and it will load.
 
 ## Usage
 
+https://drive.google.com/file/d/1InB79239VE2z_sZjsgB4RPrdZVnSk9IC/view
 
-
-
+https://github.com/Saragar710/E-Commerce-Website2023
 ## Credits
 I had help from a tutor.
 
